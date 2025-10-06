@@ -1,2 +1,3 @@
 # Chinook-Database-Management-and-SQL-Optimization-Project
 A project using Microsoft SQL Server Management Studio focused on querying, optimizing, and managing the Chinook database through SQL queries, views, stored procedures, and transaction control.
+The project required restoring the Chinook database and executing a series of SQL queries to analyze sales data, customer activity, and musical preferences. It also involved creating a view combining customer and invoice details, proposing indexing strategies to optimize performance, analyzing transaction isolation levels, and developing a stored procedure to generate and update a statistics table with transactional safety and error handling.
